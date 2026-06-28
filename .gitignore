@@ -1,0 +1,9 @@
+*.a
+*.o
+*.out
+*.out
+*.h.gch
+# Ignore vim files
+*~
+*.swp
+*.swo
